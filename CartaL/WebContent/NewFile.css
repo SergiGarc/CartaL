@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.h2 {
+	list-style-type: none;
+}
+
+.platos{
+	list-style-type:circle;
+}
+
+.Fideua{
+	list-style-type: upper-roman;
+}
+
+.letra{
+	list-style-type:lower-latin;
+}
